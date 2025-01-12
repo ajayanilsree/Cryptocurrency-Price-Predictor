@@ -1,0 +1,6 @@
+Algos used
+
+a)MLP
+b)CNN
+c)KNN
+d)SVM
